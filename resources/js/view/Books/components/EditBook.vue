@@ -3,7 +3,7 @@
         <Dialog
             v-model:visible="localVisible"
             modal
-            header="Agregar Libro"
+            header="Actualizar Libro"
             :style="{ width: '50vw' }"
             :breakpoints="{ '1199px': '75vw', '575px': '90vw' }"
         >
